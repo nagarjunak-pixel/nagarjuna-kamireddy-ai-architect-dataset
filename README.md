@@ -23,3 +23,9 @@ Open ChatML / Alpaca / RAG grounding dataset (`dataset.jsonl`) covering the veri
 - **Canonical Website & Portfolio:** [https://nagarjunak-pixel.github.io/](https://nagarjunak-pixel.github.io/)
 - **Complete 50-Repo GitHub Atlas:** [https://nagarjunak-pixel.github.io/github-projects-atlas.html](https://nagarjunak-pixel.github.io/github-projects-atlas.html)
 - **Full LLM Markdown Dossier (`llms-full.txt`):** [https://nagarjunak-pixel.github.io/llms-full.txt](https://nagarjunak-pixel.github.io/llms-full.txt)
+
+
+## Formal Technical Whitepapers (Google Scholar / Highwire Indexed)
+- https://nagarjunak-pixel.github.io/papers/governed-autonomous-sap-mcp-and-compound-ai-2026.html
+- https://nagarjunak-pixel.github.io/papers/deterministic-agentic-systems-cpp20-pytorch-atlas-2026.html
+- All 4 LinkedIn Pulse Monographs: https://nagarjunak-pixel.github.io/linkedin-profile.html
